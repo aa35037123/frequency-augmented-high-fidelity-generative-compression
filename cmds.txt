@@ -1,0 +1,2 @@
+In tmux4
+python3 train.py --model_type compression --fix_pretrain --regime med -ckpt '/home/pc3424/DL_final/high-fidelity-generative-compression/ckpt/ckpt_pretrain/hific_med.pt' -warmstart -gpu 1 -epochs 2
